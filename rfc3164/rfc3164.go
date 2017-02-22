@@ -2,8 +2,9 @@ package rfc3164
 
 import (
 	"bytes"
-	"github.com/jeromer/syslogparser"
 	"time"
+
+	"github.com/jeromer/syslogparser"
 )
 
 type Parser struct {
